@@ -5,7 +5,7 @@
   <li>No momento estou me profissionalizando como desenvolvedor de software web na <a href="https://www.betrybe.com/">Trybe</a></li>
   <li>Estou sempre em busca de novos conehcimentos e desafios:mag:</li>
   <li>Tenho formação Front-End e estou concluindo o modulo de Back-End</li>
-  <li>Entre em contatato por email: hc88806@gmail.com:e-mail:. Sinta-se à vontade  para tira dúvidas, deixar feedback, ou simplesmente bater um papo, garanto que respondo de volta:wink:</li>
+  <li>Entre em contatato por email: hc88806@gmail.com ou <a href="http://api.whatsapp.com/send?phone=5592984925268">WhatsApp</a>. Sinta-se à vontade  para tira dúvidas, deixar feedback, ou simplesmente bater um papo, garanto que respondo de volta:wink:</li>
 </ul>. 
 <div>
   <a href="https://github.com/hudson-carlos">
@@ -27,8 +27,9 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/express/express-original-wordmark.svg" height="50" width="50">
   <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/mocha/mocha-plain.svg" height="50" width="50">  
 </div>
-<h4>Entre em contato</h4> 
+<h4>Vamos se conectar</h4> 
 <div>   
   <a href="https://www.linkedin.com/in/hudson-carlos/"><img alt="hudsonLinkedIn" width="150px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="http://api.whatsapp.com/send?phone=5592984925268"><img alt="hudsonWhatsApp" width="150px" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+  <a href="https://www.facebook.com/profile.php?id=100006648469118"><img alt="hudsonFacebook" width="150px" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
+  
 </div>  
