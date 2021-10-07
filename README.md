@@ -16,6 +16,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/nodejs/nodejs-original-wordmark.svg" height="50" width="50">
   <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/express/express-original-wordmark.svg" height="50" width="50">
   <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/mocha/mocha-plain.svg" height="50" width="50">
-  
+    
   ![Snake animation](https://github.com/hudson-carlos/hudson-carlos/blob/output/github-contribution-grid-snake.svg)
 </div> 
