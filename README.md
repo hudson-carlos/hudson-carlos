@@ -1,4 +1,12 @@
-### Olá! Seja bem-vindo ao meu github. 
+### Olá! Seja bem-vindo ao meu github.
+<ul>
+  <li>Sou apaixonado por programação, tecnologias e jogos:heart_eyes:</li>
+  <li>Sou de Manaus/AM tenho 27 anos, gosto de jogar fultebol:soccer: e passar tempo com a família:family: </li>
+  <li>No momento estou me profissionalizando como desenvolvedor de software web na <a href="https://www.betrybe.com/">Trybe</a></li>
+  <li>Estou sempre em busca de novos conehcimentos e desafios:mag:</li>
+  <li>Tenho formação Front-End e estou concluindo o modulo de Back-End</li>
+  <li>Entre em contatato por email: hc88806@gmail.com:e-mail:. Sinta-se à vontade  para tira dúvidas, deixar feedback, ou simplesmente bater um papo, garanto que respondo de volta:wink:</li>
+</ul>. 
 <div>
   <a href="https://github.com/hudson-carlos">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hudson-carlos&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
