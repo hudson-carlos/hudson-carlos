@@ -4,7 +4,7 @@
   <li>Sou de Manaus/AM tenho 27 anos, gosto de jogar fultebol:soccer: e passar tempo com a família:family: </li>
   <li>No momento estou me profissionalizando como desenvolvedor de software web na <a href="https://www.betrybe.com/">Trybe</a></li>
   <li>Estou sempre em busca de novos conehcimentos e desafios:mag:</li>
-  <li>Tenho formação Front-End e estou concluindo o modulo de Back-End</li>
+  <li>Tenho formação <b>full stak</b> e estou concluindo o modulo de ciência da computação</li>
   <li>Entre em contatato: <b>hc88806@gmail.com</b> ou <a href="http://api.whatsapp.com/send?phone=5592984925268">WhatsApp</a>. Sinta-se à vontade  para tira dúvidas, deixar feedback, ou simplesmente bater um papo, garanto que respondo de volta:wink:</li>
 </ul>. 
 <div>
@@ -25,7 +25,9 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/mongodb/mongodb-original-wordmark.svg" height="80" width="80">
   <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/nodejs/nodejs-original-wordmark.svg" height="50" width="50">
   <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/express/express-original-wordmark.svg" height="50" width="50">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/mocha/mocha-plain.svg" height="50" width="50">  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/mocha/mocha-plain.svg" height="50" width="50">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/python/python-original-wordmark.svg" height="50" width="50">
+
 </div>
 <h4>Vamos se conectar</h4> 
 <div>   
