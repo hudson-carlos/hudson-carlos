@@ -4,7 +4,7 @@
   <li>Sou de Manaus/AM, gosto de jogar fultebol:soccer: e passar tempo com a família:family: </li>
   <li>Sou desenvolvedor de software web, formado pela <a href="https://www.betrybe.com/">Trybe</a></li>
   <li>Estou sempre em busca de novos conehcimentos e desafios:mag:</li>
-  <li>Entre em contatato: <b>hc88806@gmail.com</b> ou. Sinta-se à vontade  para tira dúvidas, deixar feedback, ou simplesmente bater um papo, garanto que respondo de volta:wink:</li>
+  <li>Entre em contatato: <b>hc88806@gmail.com</b>, <a href="https://www.linkedin.com/in/hudson-carlos/">LinkedIn</a>. Sinta-se à vontade  para tira dúvidas, deixar feedback, ou simplesmente bater um papo, garanto que respondo de volta:wink:</li>
 </ul>. 
 <div>
   <a href="https://github.com/hudson-carlos">
